@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+- [My tweets](https://twitter.com/BEOloruntobi)
+- [My fx charts](https://www.tradingview.com/u/Deut0818/)
