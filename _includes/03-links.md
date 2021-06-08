@@ -1,0 +1,2 @@
+- [My tweets](https://twitter.com/BEOloruntobi)
+- [My fx charts](https://www.tradingview.com/u/Deut0818/)
