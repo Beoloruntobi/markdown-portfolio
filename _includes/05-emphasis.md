@@ -1,0 +1,13 @@
+## Skills
+- **Computer Programming**
+  - Software Programming
+    - Block based language (*Scratch*, *Blockly*, *Beetleblocks*)
+    - Text based language (*C++*, *Python*, *R*)
+  - Hardware Programming
+    - Blocklyduino
+    - C++ (*for microcontrollers and Arduino IDE*)
+    - Verilog
+- **Graphics design and Animation**
+- **Mathematical suites**
+  - Matlab
+  - Mathcad
