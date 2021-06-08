@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+## What I love to do
+- Music
+- Farming
+  - Animal farming
+  - Gardening
+  - Landscaping
+- Teaching
